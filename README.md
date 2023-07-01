@@ -26,6 +26,8 @@ Bước 3: Lần lượt click vào file workflow/S-GPT Encoder.shortcut và fil
 
 Bước 4: Trong lần cài đặt đầu tiên, VN-SGPT sẽ yêu cầu bạn nhập API Key ChatGPT để sử dụng 
 
+Bước 5: Mặc định, khi dùng trên iphone/ipad/Apple Watch, VN-SGPT sẽ dùng chế độ giọng nói. Nếu bạn muốn dùng chế độ text, hãy thay đổi tham số ở phần đầu của workflow trong Shortcuts
+
 
 ## Sử dụng 
 
@@ -41,6 +43,9 @@ Trong ứng dụng Shortcuts, bạn có thể đặt cho VN-SGPT một phím t�
 
 #### 4. Kích hoạt thông qua Share Sheet 
 Trong một ứng dụng khác, bạn chọn đoạn văn bản/link rồi ấn Share, chọn VN-SGPT để gửi nội dung đó sang VN-SGPT xử lý (tóm tắt, dịch thuật...)
+
+### Dừng hội thoại 
+Khi chatbot hỏi câu hỏi tiếp theo, bạn nói/gõ "kết thúc" hoặc "dừng" để kết thúc 
 
 
 ## Báo lỗi
