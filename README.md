@@ -33,10 +33,10 @@ Bước 5: Mặc định, khi dùng trên iphone/ipad/Apple Watch, VN-SGPT sẽ 
 
 ### Kích hoạt VN-SGPT 
 #### 1. Kích hoạt bằng Siri 
-Cách dễ nhất để kích hoạt VN-SGPT là thông qua Siri, bạn chỉ cần nói "Hey Siri, VN-SGPT" (bạn nên đổi tên workflow VN-SGPT thành tên khác để dễ đọc)
+Cách dễ nhất để kích hoạt VN-SGPT là thông qua Siri, bạn chỉ cần nói "Hey Siri, VN-SGPT" (bạn nên đổi tên workflow VN-SGPT thành tên khác để dễ đọc). Tuy nhiên lưu ý do Siri chưa hỗ trợ tiếng Việt, nên bạn sẽ cần nhập câu hỏi vào bằng tiếng Anh.
 
 #### 2. Kích hoạt bằng ứng dụng Shortcuts 
-Mở ứng dụng Shortcuts có sẵn trong iPhone/Macbook, sau đó tìm đến và ấn vào workflow VN-SGPT để khởi động 
+Mở ứng dụng Shortcuts có sẵn trong iPhone/Macbook, sau đó tìm đến và ấn vào workflow VN-SGPT để khởi động. Nếu bạn đang dùng iPhone/iPad/Apple Watch, bạn có thể đặt câu hỏi bằng giọng nói tiếng Việt 
 
 #### 3. Kích hoạt bằng phím tắt 
 Trong ứng dụng Shortcuts, bạn có thể đặt cho VN-SGPT một phím tắt để dễ dàng kích hoạt 
