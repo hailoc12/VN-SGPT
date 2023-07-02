@@ -20,7 +20,7 @@ Xem thêm bài giới thiệu gốc về S-GPT [tại đây](https://www.macstor
 
 Bước 1: Chuẩn bị API key ChatGPT. Nếu đã có tài khoản ChatGPT, bạn có thể tạo được API key tại [trang này](https://platform.openai.com/account/api-keys)
 
-Bước 2: Tải file cài đặt [tại đây](https://github.com/hailoc12/VN-SGPT/releases/tag/1.0)
+Bước 2: Tải file cài đặt [tại đây](https://github.com/hailoc12/VN-SGPT/releases/tag/1.0.1)
 
 Bước 3: Lần lượt click vào file workflow/S-GPT Encoder.shortcut và file workflow/VN-GPT.shortcut để cài đặt 
 
