@@ -52,6 +52,3 @@ Khi chatbot hỏi câu hỏi tiếp theo, bạn nói/gõ "kết thúc" hoặc "d
 Mọi vướng mắc trong quá trình sử dụng VN-SGPT mời bạn tạo issue ở mục Issues của repo hoặc inbox với mình qua FB [Lộc Đặng](https://www.facebook.com/locdh90/)
 
 
-## Credit  
-Mọi công sức xây dựng workflow này thuộc về tác giả Federico Viticci, mình chỉ Việt hoá và thiết lập lại một số thông số cho phù hợp với tiếng Việt và dễ dàng sử dụng với người Việt hơn
-
